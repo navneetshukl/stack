@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	stack "github.com/navneetshukl/stack/internal"
+	"github.com/navneetshukl/stack/stack"
 )
 
 func main() {
